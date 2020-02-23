@@ -1,0 +1,55 @@
+
+.wrapper #content .container #contact_top{
+	width: 1150px;
+	height:450px;
+	background-color: #FFFFF0;
+}
+
+.wrapper #content .container #contact_top iframe{
+	width: 1150px;
+	height:450px;
+	
+}
+
+.wrapper #content .container #contact_bottom {
+
+	height: 350px;
+	width: 450px;
+	margin: 0px;
+	
+}
+.wrapper #content .container #contact_bottom table {
+	margin: 25px;
+	padding-right: 30px;
+
+	
+}
+.wrapper #content .container #contact_bottom tr {
+	height: 20px;
+	
+}
+.wrapper #content .container #contact_bottom table td{
+	height:50px; ;
+	width:50px;
+
+	
+}
+.wrapper #content  .container #contact_bottom #form_contact input[type=text], input[type=email]
+{
+	width: 300px;
+	height: 20px;
+	
+}
+.wrapper #content  .container #contact_bottom #form_contact table td textarea
+{
+	width: 300px;
+	height: 90px;
+	
+}
+.wrapper #content  .container #contact_bottom #form_contact  input[type=submit]
+{
+	width: 50px;
+	height: 25px;
+	float: right;
+
+}

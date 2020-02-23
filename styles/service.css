@@ -1,0 +1,45 @@
+
+.wrapper #content .kiri {
+	height: 750px;
+	width: 550px;
+	float: left;
+	padding-right: 25px;
+	
+}
+
+.wrapper #content .kiri img{
+	height: 170px;
+	width: 170px;
+	float: left;
+	padding-right: 20px;
+}
+
+.wrapper #content .kiri p{
+	text-align: justify;
+	
+}
+.wrapper #content .kanan  a{
+	padding-top: 15px;
+}
+.wrapper #content .kanan {
+	height: 750px;
+	width: 550px;
+	float: left;
+	padding-right: 25px;
+	
+}
+
+.wrapper #content .kanan img{
+	height: 170px;
+	width: 170px;
+	float: left;
+	padding-right: 20px;
+}
+
+.wrapper #content .kanan p{
+	text-align: justify;
+	
+}
+.wrapper #content .kanan  a{
+	padding-top: 15px;
+}

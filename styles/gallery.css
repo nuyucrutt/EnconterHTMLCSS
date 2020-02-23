@@ -1,0 +1,28 @@
+
+.wrapper #content h1{
+	width: 1135px;
+	padding-top: 10px;
+	padding-left: 15px;
+	height: 60px;
+	color: #FFFFFF;
+	background-color: #9E2630;
+}
+.group_box { 
+	width:1000px;
+	margin: auto;
+	border:1px solid #ccc;
+	border-radius: 5px;
+}
+.group_box li { 
+	float:left; 
+	overflow:hidden; 
+	margin:10px; 
+	height:200px; 
+	width:290px; 
+	border:1px 
+	solid red;
+}
+.group_box li img { 
+	height:200px; 
+	border-radius:5px;
+}
